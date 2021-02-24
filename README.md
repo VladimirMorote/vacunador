@@ -9,6 +9,14 @@ El algoritmo implementado asigan un turno a cada persona registrada, priorizando
 de comorbilidad y el lugar de vacunación más cercano. 
 
 
+## Video 
+
+Mirar el video explicativo: 
+
+[![Everything Is AWESOME](https://www.argentina.gob.ar/sites/default/files/coronavirus-vacuna-placa-web.png)]
+(https://drive.google.com/file/d/1llrhAO-Yo3Ib8_FG8RqpACLnIpTncPqP/view?usp=sharing)
+
+
 ## Requisitos 
 
 python 3.5, o superior
