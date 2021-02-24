@@ -1,0 +1,6 @@
+{
+    "24918294": ("centro_vacunación_001", ["enf_001","enf_002","enf_004"],40),
+    "24918295": ("centro_vacunación_002", ["enf_011","enf_005"], 65),
+    "24918296": ("centro_vacunación_001", ["enf_013"], 80)
+
+}

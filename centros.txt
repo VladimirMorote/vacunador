@@ -1,0 +1,1 @@
+["centro_vacunación_001", "centro_vacunación_002", "centro_vacunación_003", "centro_vacunación_004", "centro_vacunación_005", "centro_vacunación_006", "centro_vacunación_007", "centro_vacunación_008", "centro_vacunación_009"]

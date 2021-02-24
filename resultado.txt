@@ -1,0 +1,1 @@
+{'24918296': ('vacuna_001', 3, 'centro_vacunación_001')}{'24918296': ('vacuna_001', 3, 'centro_vacunación_001'), '24918295': ('vacuna_004', 3, 'centro_vacunación_002')}{'24918296': ('vacuna_001', 3, 'centro_vacunación_001'), '24918295': ('vacuna_004', 3, 'centro_vacunación_002'), '24918294': ('vacuna_002', 2, 'centro_vacunación_001')}
