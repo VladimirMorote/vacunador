@@ -13,8 +13,7 @@ de comorbilidad y el lugar de vacunación más cercano.
 
 Mirar el video explicativo: 
 
-[![Everything Is AWESOME](https://www.argentina.gob.ar/sites/default/files/coronavirus-vacuna-placa-web.png)]
-(https://drive.google.com/file/d/1llrhAO-Yo3Ib8_FG8RqpACLnIpTncPqP/view?usp=sharing)
+[![Everything Is AWESOME](https://www.argentina.gob.ar/sites/default/files/coronavirus-vacuna-placa-web.png)](https://drive.google.com/file/d/1llrhAO-Yo3Ib8_FG8RqpACLnIpTncPqP/view?usp=sharing)
 
 
 ## Requisitos 
