@@ -15,7 +15,7 @@ python 3.5, o superior
 
 ## Instalación
 
-> git clone 
+> git clone https://github.com/wsf/vacunador.git
 
 
 ## Uso 
