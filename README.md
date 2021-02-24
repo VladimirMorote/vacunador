@@ -5,8 +5,8 @@ En este repositorio se presenta un prototipo experimiental,
 de un módulo desarrollado en Pyhon, que implementa la asignación de turnos para 
 las personas que hayan registrado su voluntad de vacunarse. 
 
-El algoritmo implementado asigan un turno a cada persona registrada priorizando la edad, la cantidad 
-de comorbolidad y el lugar de vacunación más cercano. 
+El algoritmo implementado asigan un turno a cada persona registrada, priorizando la edad, la cantidad 
+de comorbilidad y el lugar de vacunación más cercano. 
 
 
 ## Requisitos 
