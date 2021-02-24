@@ -1,4 +1,4 @@
-# Módulo para la asignación de vacunas con prioridádes de edad, comorbolidad y cercanías geográficas
+# Módulo para la asignación de turnos de vacunación, teniendo en cuenta prioridades de edad, comorbolidad y cercanías geográficas
 
 
 En este repositorio se presenta un prototipo experimiental, 
